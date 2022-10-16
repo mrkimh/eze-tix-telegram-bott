@@ -9,7 +9,7 @@ APP_HOST = os.environ.get(
     default='https://define.me/'
 )
 TELEGRAM_TOKEN = os.environ.get(
-    key='TELEGRAM_BOT_TOKEN',
+    key='5711490877:AAHCU5uKeFXREXZrFCZlNsUX_5UVBBH1XTQ',
     default='TOKEN'
 )
 
