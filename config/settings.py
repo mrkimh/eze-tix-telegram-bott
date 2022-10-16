@@ -10,7 +10,7 @@ APP_HOST = os.environ.get(
 )
 TELEGRAM_TOKEN = os.environ.get(
     key='5711490877:AAHCU5uKeFXREXZrFCZlNsUX_5UVBBH1XTQ',
-    default='TOKEN'
+    default='5711490877:AAHCU5uKeFXREXZrFCZlNsUX_5UVBBH1XTQ'
 )
 
 DATABASE_URL = os.environ.get(
